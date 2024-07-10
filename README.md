@@ -1,5 +1,5 @@
 - I’m @6R1MR34P3R
 - Hacktivist and defensor of the open source software
-- I'm a hacker and I'm learning cibersec
+- Hacker and GNU/Linux enthusiast
 - I'm always interested in collaborate with everyone, just contact me
 - 📫 6R1MR34P3R@yourtimehascome.sb
