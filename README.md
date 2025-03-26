@@ -1,6 +1,6 @@
 ## 👤 About
 
-I don't actively use this GitHub account beyond opening issues and submitting commits.  
+I don't actively use this GitHub account beyond opening issues and submitting commits to the few libre and free software projects still hosted here.  
 If you're looking for me, you'll find me on [SourceHut](https://sr.ht/~_6r1m_r34p3r/).  
 
 I reject centralized, proprietary platforms like GitHub and prefer **real GIT** and ethical, libre alternatives, and you should, too.  
