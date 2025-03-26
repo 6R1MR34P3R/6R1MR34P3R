@@ -12,6 +12,7 @@ I reject centralized, proprietary platforms like GitHub and prefer **real GIT** 
 - **💬 Matrix**: [@6r1mr34p3r:hispagatos.org](https://matrix.to/#/@6r1mr34p3r:hispagatos.org)  
 - **🐘 Mastodon**: [@6R1MR34P3R@hispagatos.space](https://hispagatos.space/@6R1MR34P3R)  
 - **📸 Pixelfed**: [pxlmo.com/6R1MR34P3R](https://pxlmo.com/6R1MR34P3R)  
+- **🐭 Lemmy**: [@6R1MR34P3R@lemmy.ml](https://lemmy.ml/u/6R1MR34P3R)
 - **📰 Usenet**: `alt.2600`, `alt.2600.madrid`, `hispagatos.talk`  
 
 ## 🔗 More
